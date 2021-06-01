@@ -1,0 +1,102 @@
+1.6 14:19:20 -- << oblaco sozdano
+1.6 14:19:20 -- ->oblaco sozdano s par-mi1.000000 1.000000 1.000000 1.000000 100
+1.6 14:21:23 -- << oblaco sozdano
+1.6 14:21:23 -- ->oblaco sozdano s par-mi1.000000 1.000000 1.000000 1.000000 100
+1.6 14:49:15 -- << oblaco sozdano
+1.6 14:49:15 -- ->oblaco sozdano s par-mi1.000000 1.000000 0.000000 0.000000 100
+1.6 14:49:52 -- << buffer vigruzhen
+1.6 14:50:6 -- << proscanirovano
+1.6 14:50:6 -- ->proscanirovano(dbs)20.0000005
+1.6 14:50:6 -- << pole raspechatano
+1.6 14:50:6 -- ->pole raspechatano (dbs) 20.000000 5 default
+1.6 14:52:34 -- << oblaco sozdano
+1.6 14:52:34 -- ->oblaco sozdano s par-mi1.000000 1.000000 0.000000 0.000000 100
+1.6 14:52:38 -- << buffer vigruzhen
+1.6 14:52:45 -- << proscanirovano
+1.6 14:52:45 -- ->proscanirovano(dbs)18.0000005
+1.6 14:52:45 -- << pole raspechatano
+1.6 14:52:45 -- ->pole raspechatano (dbs) 18.000000 5 default
+1.6 14:56:45 -- << oblaco sozdano
+1.6 14:56:45 -- ->oblaco sozdano s par-mi1.000000 1.000000 0.000000 0.000000 100
+1.6 14:56:50 -- << buffer vigruzhen
+1.6 14:56:56 -- << proscanirovano
+1.6 14:56:56 -- ->proscanirovano(dbs)18.0000005
+1.6 14:56:56 -- << pole raspechatano
+1.6 14:56:56 -- ->pole raspechatano (dbs) 18.000000 5 default
+1.6 15:7:10 -- << oblaco sozdano
+1.6 15:7:10 -- ->oblaco sozdano s par-mi1.000000 1.000000 0.000000 0.000000 100
+1.6 15:9:55 -- << oblaco sozdano
+1.6 15:9:55 -- ->oblaco sozdano s par-mi1.000000 1.000000 1.000000 0.000000 100
+1.6 15:16:12 -- << oblaco sozdano
+1.6 15:16:12 -- ->oblaco sozdano s par-mi1.000000 1.000000 0.000000 0.000000 100
+1.6 15:16:27 -- << buffer vigruzhen
+1.6 15:16:48 -- << proscanirovano
+1.6 15:16:48 -- ->proscanirovano(dbs)18.0000005
+1.6 15:16:48 -- << pole raspechatano
+1.6 15:16:48 -- ->pole raspechatano (dbs) 18.000000 5 default
+1.6 15:18:40 -- << oblaco sozdano
+1.6 15:18:40 -- ->oblaco sozdano s par-mi1.000000 1.000000 0.000000 0.000000 100
+1.6 15:18:54 -- << buffer vigruzhen
+1.6 15:20:34 -- << oblaco sozdano
+1.6 15:20:34 -- ->oblaco sozdano s par-mi1.000000 1.000000 0.000000 0.000000 100
+1.6 15:20:37 -- << buffer vigruzhen
+1.6 15:20:43 -- << proscanirovano
+1.6 15:20:43 -- ->proscanirovano(dbs)18.0000005
+1.6 15:20:43 -- << pole raspechatano
+1.6 15:20:43 -- ->pole raspechatano (dbs) 18.000000 5 default
+1.6 15:21:54 -- << proscanirovano
+1.6 15:21:54 -- ->proscanirovano(dbs)30.0000005
+1.6 15:21:55 -- << pole raspechatano
+1.6 15:21:55 -- ->pole raspechatano (dbs) 30.000000 5 default
+1.6 15:22:37 -- << proscanirovano
+1.6 15:22:37 -- ->proscanirovano(dbs)1.0000005
+1.6 15:22:37 -- << pole raspechatano
+1.6 15:22:37 -- ->pole raspechatano (dbs) 1.000000 5 default
+1.6 15:23:12 -- << oblaco sozdano
+1.6 15:23:12 -- ->oblaco sozdano s par-mi10.000000 10.000000 0.000000 0.000000 100
+1.6 15:23:15 -- << buffer vigruzhen
+1.6 15:23:21 -- << proscanirovano
+1.6 15:23:21 -- ->proscanirovano(dbs)5.0000005
+1.6 15:23:21 -- << pole raspechatano
+1.6 15:23:21 -- ->pole raspechatano (dbs) 5.000000 5 default
+1.6 15:23:36 -- << proscanirovano
+1.6 15:23:36 -- ->proscanirovano(dbs)1.0000005
+1.6 15:23:36 -- << pole raspechatano
+1.6 15:23:36 -- ->pole raspechatano (dbs) 1.000000 5 default
+1.6 15:24:15 -- << proscanirovano
+1.6 15:24:15 -- ->proscanirovano(dbs)18.0000005
+1.6 15:24:15 -- << pole raspechatano
+1.6 15:24:15 -- ->pole raspechatano (dbs) 18.000000 5 default
+1.6 15:24:36 -- << proscanirovano
+1.6 15:24:36 -- ->proscanirovano(dbs)18.0000005
+1.6 15:24:36 -- << pole raspechatano
+1.6 15:24:36 -- ->pole raspechatano (dbs) 18.000000 5 default
+1.6 15:25:0 -- << oblaco sozdano
+1.6 15:25:0 -- ->oblaco sozdano s par-mi10.000000 10.000000 0.000000 0.000000 100
+1.6 15:25:2 -- << buffer vigruzhen
+1.6 15:25:8 -- << proscanirovano
+1.6 15:25:8 -- ->proscanirovano(dbs)18.0000005
+1.6 15:25:8 -- << pole raspechatano
+1.6 15:25:8 -- ->pole raspechatano (dbs) 18.000000 5 default
+1.6 15:26:55 -- << oblaco sozdano
+1.6 15:26:55 -- ->oblaco sozdano s par-mi10.000000 10.000000 0.000000 0.000000 100
+1.6 15:26:58 -- << buffer vigruzhen
+1.6 15:27:1 -- << proscanirovano
+1.6 15:27:1 -- ->proscanirovano(dbs)18.0000005
+1.6 15:27:1 -- << pole raspechatano
+1.6 15:27:1 -- ->pole raspechatano (dbs) 18.000000 5 default
+1.6 15:54:51 -- << oblaco sozdano
+1.6 15:54:51 -- ->oblaco sozdano s par-mi5.000000 5.000000 0.000000 0.000000 30
+1.6 15:54:53 -- << buffer vigruzhen
+1.6 15:54:56 -- << Voronoi diagram printed
+1.6 15:54:56 -- Voronoi diagram printed
+1.6 15:55:54 -- << oblaco sozdano
+1.6 15:55:54 -- ->oblaco sozdano s par-mi5.000000 5.000000 0.000000 0.000000 30
+1.6 15:55:56 -- << buffer vigruzhen
+1.6 15:55:58 -- << Voronoi diagram printed
+1.6 15:55:58 -- Voronoi diagram printed
+1.6 15:57:17 -- << oblaco sozdano
+1.6 15:57:17 -- ->oblaco sozdano s par-mi5.000000 5.000000 0.000000 0.000000 30
+1.6 15:57:20 -- << buffer vigruzhen
+1.6 15:57:22 -- << Voronoi diagram printed
+1.6 15:57:22 -- Voronoi diagram printed
